@@ -249,11 +249,11 @@ InnoDB Buffer Pool — это самый важный буфер для движ
 
 1. **MySQL 9.0 Reference Manual.** Pluggable Storage Engine Architecture. URL: https://dev.mysql.com/doc/refman/9.0/en/pluggable-storage-overview.html#mysql-architecture-diagram (дата обращения: 19.01.2026).
 
-2. **MariaDB Knowledge Base:** официальная база знаний / MariaDB Foundation. Раздел «InnoDB Storage Engine». URL: https://mariadb.com/kb/en/innodb-storage-engine/ (дата обращения: 19.01.2025).
+2. **MariaDB Knowledge Base:** официальная база знаний / MariaDB Foundation. Раздел «InnoDB Storage Engine». URL: https://mariadb.com/docs/platform/mariadb-faqs/storage-engines/innodb-storage-engine (дата обращения: 19.01.2025).
 
 3. **Percona XtraBackup – Documentation:** руководство пользователя / Percona LLC. URL: https://docs.percona.com/percona-xtrabackup/ (дата обращения: 19.01.2025).
 
-4. **MariaDB Enterprise Documentation:** Pluggable Storage Engine Architecture : [веб-сайт] / MariaDB Foundation. URL: https://mariadb.com/docs/server/ref/esql/architecture/pluggable-storage-engine-architecture/ (дата обращения: 19.01.2025).
+4. **MariaDB Enterprise Documentation:** Pluggable Storage Engine Architecture : [веб-сайт] / MariaDB Foundation. URL: https://mariadb.com/docs (дата обращения: 19.01.2025).
 
 Реферат размещен по ссылке: https://github.com/AIS-439/Shiryaeva_Olesya_Denisovna_14
 
